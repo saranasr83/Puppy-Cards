@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12225341/Puli-Care.jpg",
+        "breed":"Puli",
+        "origin":"Hungary"
+
+    },
+    {
+        "id": 2,
+        "image":"https://images.wagwalkingweb.com/media/breed/pembroke-welsh-corgi/appearance/pembroke-welsh-corgi.png",
+        "breed":"Corgi",
+        "origin":"Pembrokeshire"
+
+    },
+    {
+        "id": 3,
+        "image":"http://www.dcaf.org/wp-content/uploads/2017/11/PuckonBeach800.png",
+        "breed":"Dalmatian",
+        "origin":"Croatia"
+
+    },
+    {
+        "id": 4,
+        "image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12222649/Yorkshire-Terrier-On-White-01.jpg",
+        "breed":"yorkshire terrier",
+        "origin":"England"
+
+    },
+    {
+        "id": 5,
+        "image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12213218/German-Shepherd-on-White-00.jpg",
+        "breed":"German Shepherd",
+        "origin":"Germany"
+
+    },
+    {
+        "id": 6,
+        "image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12235957/Border-Collie-On-White-01.jpg",
+        "breed":"Border Collie",
+        "origin":"England"
+
+    },
+    {
+        "id": 7,
+        "image":"https://www.businessmodulehub.com/wp-content/uploads/2017/06/Barnese-Mountain-Dog.jpg",
+        "breed":"Bernese",
+        "origin":"Switzerland"
+
+    },
+    {
+        "id": 8,
+        "image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12225627/Pomeranian-On-White-01.jpg",
+        "breed":"Pomeranian",
+        "origin":"Germany/Poland"
+
+    },
+    {
+        "id": 9,
+        "image":"http://www.allsmalldogbreeds.com/breeds/poodle-toy.jpg",
+        "breed":"Poodle",
+        "origin":"Germany/France"
+
+    },
+    {
+        "id": 10,
+        "image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12224329/Shih-Tzu-On-White-01.jpg",
+        "breed":"Shih Tzu",
+        "origin":"China"
+
+    }
+]
