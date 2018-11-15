@@ -2,7 +2,7 @@
 
 This is a page made with react and it includes some of the cutest puppy photos. You can also find the breed name and country of origin.
 
-[Go to Page]()
+[Go to Page](spooky-note.surge.sh)
 
 
 ### Prerequisites
