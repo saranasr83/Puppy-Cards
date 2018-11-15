@@ -30,3 +30,14 @@
   .card > .txt-container > ul > li {
     margin-top: 18px;
   }
+  .card > .remove {
+    color: red;
+    position: absolute;
+    cursor: pointer;
+    right: 10px;
+    top:10px;
+    font-size: 40px;
+  }
+  .card > .remove:hover {
+    color: #d50000;
+  }

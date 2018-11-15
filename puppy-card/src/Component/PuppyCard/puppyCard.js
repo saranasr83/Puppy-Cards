@@ -18,6 +18,7 @@ const PuppyCard = (props) => (
             </ul>
 
         </div>
+        <span onClick={()=>props.removePuppy(props.id)} className="remove">x</span>
     </div>
 )
 
