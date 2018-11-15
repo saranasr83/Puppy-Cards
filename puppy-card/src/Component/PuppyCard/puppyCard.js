@@ -1,10 +1,10 @@
 import React from "react";
-import "./puppyCard.css"
+import "./PuppyCard.css"
 
-const PuppyCard = (props) => {
+const PuppyCard = (props) => (
     <div className="card">
         <div className="img-container">
-            <img alt={props.name} src={props.image} />
+            <img alt={props.breed} src={props.image} />
         </div>
         <div className="txt-container">
             <ul>
@@ -19,6 +19,6 @@ const PuppyCard = (props) => {
 
         </div>
     </div>
-}
+)
 
 export default PuppyCard;

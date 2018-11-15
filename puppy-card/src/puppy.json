@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12225341/Puli-Care.jpg",
+        "image":"http://dogsaholic.com/wp-content/uploads/2016/06/Puli-dog-breed.jpg",
         "breed":"Puli",
         "origin":"Hungary"
 
@@ -43,7 +43,7 @@
     },
     {
         "id": 7,
-        "image":"https://www.businessmodulehub.com/wp-content/uploads/2017/06/Barnese-Mountain-Dog.jpg",
+        "image":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/13000440/Bernese-Mountain-Dog-On-White-01.jpg",
         "breed":"Bernese",
         "origin":"Switzerland"
 
