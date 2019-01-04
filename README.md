@@ -1,8 +1,8 @@
 # Puppy-Cards
 
-This is a page made with react and it includes some of the cutest puppy photos. You can also find the breed name and country of origin.
+This is a page made with react and it includes some of the cutest puppy photos. You can also find the breed name and country of origin. using the red "x" you can delete each card.
 
-[Go to Page](https://spooky-note.surge.sh)
+[Go to Page](https://stormy-cliffs-86538.herokuapp.com)
 
 
 
